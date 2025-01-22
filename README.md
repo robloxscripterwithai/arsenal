@@ -1,4 +1,4 @@
-
+local
 -- Arsenal GUI
 local ScreenGui = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
